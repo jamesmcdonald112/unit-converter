@@ -1,4 +1,4 @@
-# Unit Conversion Tool
+# Unit Converter
 
 A simple web-based unit conversion tool that converts between:
 
@@ -8,7 +8,7 @@ A simple web-based unit conversion tool that converts between:
 
 ## Live Demo
 
-- Click here for live demo
+- [Click here for a live demo](https://ephemeral-swan-16e647.netlify.app/)
 
 ## Features
 
